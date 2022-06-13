@@ -1,0 +1,37 @@
+.Tarjeta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: radial-gradient(circle at 50% -20.71%, #ffff52 0, #e8ff56 10%, #cbfa5c 20%, #acf162 30%, #8de668 40%, #6cd86c 50%, #49c970 60%, #1abd74 70%, #00b279 80%, #00a97e 90%, #00a184 100%);
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    margin-top: 10px;
+}
+img{
+    width: 150px;
+    margin: 0;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: white;
+    margin: 0;
+}
+h4{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    margin: 0;
+    margin-bottom: 5px;
+}
+h5{
+    color:#00a184;
+    background-color: white;
+    border-radius: 10px;
+    width: 50px;
+    margin: 0;
+    text-align: center;
+}

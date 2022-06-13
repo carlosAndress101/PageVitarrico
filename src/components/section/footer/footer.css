@@ -1,0 +1,21 @@
+footer{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: black;
+    width: 100vw;
+    position: fixed;
+    bottom: 0px;
+}
+h3{
+    font-weight: normal;
+    font-family:cursive;
+    font-size: small;
+    color: white;
+}
+.wrapper-links{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}

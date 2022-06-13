@@ -1,0 +1,31 @@
+.fondo{
+    background-image: url('C:\Users\caanh\Downloads\Final-proyectoIntegrador2-master\Final-proyectoIntegrador2-master\src\components\image\fondo-inicio.jpg');
+    width: 100vw;
+    height: 100vh;
+    
+}
+.titulo{
+    color: white;
+    margin: 0;
+    font-size:100px;
+}
+.titulo2{
+    color: white;
+    margin: 0;
+    font-size:100px;
+}
+.pagina-web{
+    background-color: white;
+    color: rgb(36, 63, 150);
+    font-weight: bolder;
+    border-radius: 10px;
+    align-items: center;
+    text-decoration: none;
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    padding: 10px;
+}
+.home{
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 5%;
+}

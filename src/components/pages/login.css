@@ -1,0 +1,41 @@
+.Fondo-Login {
+    background-image: url("C:\Users\caanh\Downloads\Final-proyectoIntegrador2-master\Final-proyectoIntegrador2-master\src\components\image\fondo-vitarrico.jpg");
+    text-align: center;
+    /*min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    
+    font-size: calc(10px + 2vmin);*/
+}
+
+.Logo-Vtarrico{
+    width: 200px;
+}
+input{
+    background-color: white;
+    opacity: 0.5;
+    border-radius: 15px;
+    width: 200px;
+    height: 30px;
+}
+.boton-inicio{
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    background-color: #F2A03C;
+    border: 0px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: calc(10px + 2vmin);
+}
+.R-contraseña{
+    font-size: small;
+    color: white;
+}
