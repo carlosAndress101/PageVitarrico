@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { useQuery } from "@apollo/client";
 import { PRODUCTS} from '../query/Query';
 import TablaProducts from '../section/Tabla/TablaProducts';

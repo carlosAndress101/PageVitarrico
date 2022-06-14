@@ -4,7 +4,7 @@ import Footer from '../section/footer/footer';
 import Navbar from '../section/Menu/Navbar/Navbar';
 import './proveedor.css'
 
-const Provedor = ()=>{
+const Provedor = () => {
     return(
         <body className='fondo-provedores'>
             <Navbar/>
